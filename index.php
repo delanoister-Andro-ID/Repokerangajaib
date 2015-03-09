@@ -5,7 +5,8 @@
  <body>
  <?php 
 
- 	echo "Hello World <br>This is just a file testing"; 
+
+ 	echo "<h1><font color=#ff0000>Hello World</font></h1>This is just a file testing"; 
 	
 	for($i=1;$i<=10;$i++){
    echo "Hello World <br>This is just a file testing"; 
@@ -18,6 +19,7 @@
 	echo "<td>Erick</td><td>Fajar</td><td>Ilham</td><td>Candra</td><td>Arifin</td>";
 	echo "</tr>";
 	echo "</table></center>";
+
   ?> 
  </body>
  
