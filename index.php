@@ -4,7 +4,7 @@
  </head>
  <body>
  <?php 
- 	echo "Hello World <br>This is just a file testing"; 
+ 	echo "<h1><font color=#ff0000>Hello World</font></h1>This is just a file testing"; 
   ?> 
  </body>
 </html>
