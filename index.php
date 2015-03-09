@@ -4,8 +4,12 @@
  </head>
  <body>
  <?php 
+
  	echo "Hello World <br>This is just a file testing"; 
 	
+	for($i=1;$i<=10;$i++){
+   echo "Hello World <br>This is just a file testing"; 
+ 	}
 	echo "<center><table width=300 border=1>";
 	echo "<tr>";
 	echo "<th colspan=5><div align=center>Klub Kerang Ajaib</div></th>";
@@ -18,3 +22,5 @@
  </body>
  
 </html>
+
+
